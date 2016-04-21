@@ -77,9 +77,8 @@ public class Main {
 		
 		JsonArray jsonArray = new JsonArray();
 		
-		for (JsonObject list : productListings) {
-			String listing = list.toString();			
-			jsonArray.add(listing);
+		for (JsonObject list : productListings) {						
+			jsonArray.add(list);
 		}
 		
 		jsonObject.add("listings", jsonArray);
