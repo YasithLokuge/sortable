@@ -953,3 +953,7 @@
 2016-04-21 18:44:50 INFO  Main:45 - Please wait while processing Data
 2016-04-21 18:45:52 INFO  Main:64 - Application Stopped
 2016-04-21 18:45:52 INFO  Main:65 - Output.txt file is created at the resources folder
+2016-04-21 19:31:37 INFO  Main:44 - Application Started
+2016-04-21 19:31:37 INFO  Main:45 - Please wait while processing Data
+2016-04-21 19:32:39 INFO  Main:64 - Application Stopped
+2016-04-21 19:32:39 INFO  Main:65 - Output.txt file is created at the resources folder

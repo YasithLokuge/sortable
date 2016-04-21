@@ -47,7 +47,7 @@ public class OutputWriter {
 			fw = new FileWriter(file.getAbsoluteFile());
 
 			for (JsonObject jsonObject : outputJson) {
-				String writeLine = jsonObject.toString().replace("\\","") + "\r\n ";
+				String writeLine = jsonObject.toString() + "\r\n ";
 				fw.write(writeLine);
 			}
 
